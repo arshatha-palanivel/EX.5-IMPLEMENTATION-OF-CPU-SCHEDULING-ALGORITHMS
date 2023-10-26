@@ -48,6 +48,8 @@ int main()
 ``````
 ### OUTPUT:
 
+![5 1](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/26867019-ef15-40e6-97d9-e87c0e8c14f4)
+
 
 ### RESULT:
 First-Come-First-Serve Scheduling is implemented successfully.
@@ -109,6 +111,7 @@ int main()
 ``````
 ### OUTPUT:
 
+![5 2](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/d3f9fb23-69fe-4c1f-a2fb-587275b740e5)
 
 ### RESULT:
 Shortest Job First (SJF) preemptive scheduling is implemented successfully.
@@ -187,6 +190,7 @@ Start the process Get the number of processes to be inserted Get the correspondi
 ``````
 ### OUTPUT:
 
+![5 3](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/3772c6ea-600c-4753-a6a2-b6d9e93dac36)
 
 ### RESULT:
 Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
@@ -262,6 +266,7 @@ int main()
 ``````
 ### OUTPUT:
 
+![5 4](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/b9458ffb-2442-4b76-8f4d-0d82855ac894)
 
 ### RESULT:
 Round Robin (RR) Scheduling is implemented successfully.
@@ -351,6 +356,7 @@ int main()
 ``````
 ### OUTPUT:
 
+![5 5](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/27f5ce0f-b425-4d62-9571-3c630883c31d)
 
 ### RESULT:
 Priority Preemptive scheduling is implemented successfully.
@@ -438,6 +444,7 @@ int main()
 ``````
 ### OUTPUT:
 
+![5 6](https://github.com/arshatha-palanivel/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118682484/32debebd-4d80-4bd9-b8b8-1ba40120e42b)
 
 ### RESULT:
 Priority Non-preemptive scheduling is implemented successfully.
